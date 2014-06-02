@@ -1,0 +1,5 @@
+config.xml
+public/var/session
+public/var/report
+public/var/locks
+public/var/cache
